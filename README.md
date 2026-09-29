@@ -11,4 +11,4 @@ showcase my projects, and share my learning journey. I am always excited to netw
 
 | 1 | Introduction to Cloud Computing | [Week 1](week-01.md) |
 
-| 2 | Linux Fundamentals | [week 2](week-02) |
+| 2 | Linux Fundamentals | [Week 2](week-02) |
