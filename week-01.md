@@ -31,6 +31,7 @@ startups can now build and scale globally without millions in hardware costs.
 - IaaS: virtual servers and infrastructure (AWS EC2)
 - PaaS: a platform for building and hosting apps (Google App Engine)
 - SaaS: finished software over the internet (Google Workspace)
+
 The provider manages more and I manage less as I go from IaaS to PaaS to SaaS.
 
 ### Cloud deployment models
@@ -62,6 +63,9 @@ are Infrastructure as Code (Terraform), CI/CD (GitHub Actions, Jenkins), monitor
 # vagrant up
 # vagrant ssh
 ```
+**Picture of vagrant running**
+<img width="665" height="427" alt="vagrant up" src="https://github.com/user-attachments/assets/ff402a12-2a19-4c89-a8ac-b8f1adb2df58" />
+<img width="535" height="247" alt="vagrant ssh" src="https://github.com/user-attachments/assets/3f06c601-2a38-46a6-87ff-144b26824f5f" />
 
 ## Resources Used
 - Before the Cloud (Medium)
