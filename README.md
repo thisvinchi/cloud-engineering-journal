@@ -9,4 +9,4 @@ showcase my projects, and share my learning journey. I am always excited to netw
 ## Weekly Entries
 | Week | Focus | Link |
 
-| 1 | Linux basics | [Week 1](week-01.md) |
+| 1 | Introduction to Cloud Computing | [Week 1](week-01.md) |
